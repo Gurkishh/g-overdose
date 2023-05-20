@@ -2,14 +2,19 @@
 Overdose script
 
 # items
-Joint
-Heroine
-Coke
-Lsd
-Bongo
-Tramadol
-Heroin
-Morphine
-Adrenaline
-Meldonin
-Ketamine
+
+# Joint
+# Heroin
+
+# Lsd
+# Bongo
+# Tramadol
+# Heroin
+# Morphine
+# Adrenaline
+# Meldonin
+# Ketamine
+
+
+# esx_status
+# evrp_inventory
