@@ -3,10 +3,10 @@ Overdose script
 
 # items
 
-# Joint
-# Heroin
+Joint
+Heroin
 
-# Lsd
+Lsd
 # Bongo
 # Tramadol
 # Heroin
